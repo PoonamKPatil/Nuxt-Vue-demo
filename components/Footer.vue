@@ -1,7 +1,7 @@
 <template>
     <div>
         <footer>
-            <p>Copyright 2021 NextJS</p>
+            <p>Copyright 2021 NuxtJs demo</p>
         </footer>
     </div>
 </template>
